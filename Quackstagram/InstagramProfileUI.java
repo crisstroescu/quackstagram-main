@@ -103,8 +103,6 @@ public class InstagramProfileUI extends UI {
     }
 
     // Second constructor not needed: breaking DRY principle
-    //coment test 
-    //test again
 
     public void initializeUI() {
         getContentPane().removeAll(); // Clear existing components
