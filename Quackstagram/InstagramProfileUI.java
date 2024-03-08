@@ -102,7 +102,6 @@ public class InstagramProfileUI extends UI {
         initializeUI();
     }
 
-
     // Second constructor not needed: breaking DRY principle
 
     public void initializeUI() {
